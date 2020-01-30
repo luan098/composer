@@ -11,6 +11,7 @@ class Buscador
      * @var ClientInterface
      */
     private $httpClient;
+    
     /**
      * @var Crawler
      */
